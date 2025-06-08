@@ -1,0 +1,35 @@
+name: 🧠 Auto Update Repo List
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get list of public repos
+        id: repos
+        run: |
+          repos=$(curl -s https://api.github.com/users/karankohale/repos?per_page=100 | jq -r '.[].name' | sort)
+          echo "REPOS<<EOF" >> $GITHUB_ENV
+          echo "$repos" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Update README.md
+        run: |
+          content=$(cat README.md)
+          new_section=$(echo "$REPOS" | awk '{ print "- [" $0 "](https://github.com/karankohale/" $0 ")" }')
+          new_content=$(echo "$content" | sed -e "/<!--START_SECTION:my_repos-->/,/<!--END_SECTION:my_repos-->/c<!--START_SECTION:my_repos-->\n$new_section\n<!--END_SECTION:my_repos-->")
+          echo -e "$new_content" > README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Auto-update repo list"
+          git push
