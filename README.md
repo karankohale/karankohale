@@ -49,11 +49,10 @@ Pune, India 🇮🇳
 
 ## 📂 My GitHub Repositories
 
-<p align="center">
-  <a href="https://github.com/karankohale?tab=repositories">
-    <img src="https://github-readme-profile-repo-list.vercel.app/api/repositories?username=karankohale&theme=dark&hide=stars,forks" />
-  </a>
-</p>
+<!--START_SECTION:my_repos-->
+Loading Repositories...
+<!--END_SECTION:my_repos-->
+
 
 ## 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/karankohale/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.youtube.com/@Anomity" target="_blank"> <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://instagram.com/anomity127001" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
