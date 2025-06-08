@@ -3,6 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Karan+Kohale;Cybersecurity+Engineer+%7C+YouTuber+%7C+Ethical+Hacker;Welcome+to+my+Digital+Lab+%F0%9F%92%BB;Explore+My+Work+Below" alt="Typing SVG" />
 </h1>
 
+## 📈 GitHub Stats & Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karankohale&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankohale&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankohale&layout=compact&theme=radical&hide_border=true" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -37,21 +47,21 @@ Pune, India 🇮🇳
 - 🛡️ SOC Operations, EDR, SIEM, XDR, SOAR
 - ⚙️ Tools: CrowdStrike, Rapid7, Netskope, MDM, Wireshark, Nmap, Metasploit, JohnTheRipper
 
-## 📈 GitHub Stats & Highlights
+## 🎥 My Latest YouTube Videos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karankohale&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankohale&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankohale&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://www.youtube.com/watch?v=I8ZM5_twPJc" target="_blank">
+    <img width="48%" src="https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg" alt="Video Title 1"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=jSEu_xZlpfo" target="_blank">
+    <img width="48%" src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" alt="Video Title 2"/>
+  </a>
 </p>
 
-## 📂 My GitHub Repositories
+<p align="center">
+  <a href="https://www.youtube.com/@Anomity" target="_blank">▶️ View all videos on YouTube</a>
+</p>
 
-<!--START_SECTION:my_repos-->
-Loading Repositories...
-<!--END_SECTION:my_repos-->
 
 
 ## 🌐 Connect With Me
