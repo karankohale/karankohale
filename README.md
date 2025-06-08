@@ -29,7 +29,7 @@ Cybersecurity Analyst | Malware Analyst | Penetration Tester | Certified Ethical
 3.5+ years in Blue Team & Cybersecurity Operations
 
 > location
-Pune, India 🇮🇳
+India 🇮🇳
 ```
 ## 🧾 Certificationss
 - CEH v12
