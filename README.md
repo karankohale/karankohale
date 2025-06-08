@@ -47,21 +47,20 @@ Pune, India 🇮🇳
 - 🛡️ SOC Operations, EDR, SIEM, XDR, SOAR
 - ⚙️ Tools: CrowdStrike, Rapid7, Netskope, MDM, Wireshark, Nmap, Metasploit, JohnTheRipper
 
-## 🎥 My Latest YouTube Videos
+## 🎬 My Latest YouTube Videos
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=I8ZM5_twPJc" target="_blank">
-    <img width="48%" src="https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg" alt="Video Title 1"/>
+  <a href="https://youtu.be/I8ZM5_twPJc" target="_blank">
+    <img src="https://img.youtube.com/vi/I8ZM5_twPJc/hqdefault.jpg" alt="YouTube Video 1" width="45%" />
   </a>
-  <a href="https://www.youtube.com/watch?v=jSEu_xZlpfo" target="_blank">
-    <img width="48%" src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" alt="Video Title 2"/>
+  <a href="https://youtu.be/jSEu_xZlpfo" target="_blank">
+    <img src="https://img.youtube.com/vi/jSEu_xZlpfo/hqdefault.jpg" alt="YouTube Video 2" width="45%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@Anomity" target="_blank">▶️ View all videos on YouTube</a>
+  🔗 <a href="https://www.youtube.com/@karankohale" target="_blank">Watch more on my channel</a>
 </p>
-
 
 
 ## 🌐 Connect With Me
