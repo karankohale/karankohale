@@ -20,7 +20,7 @@ Cybersecurity Analyst | Malware Analyst | Penetration Tester | Certified Ethical
 > location
 Pune, India 🇮🇳
 ```
-## Certifications
+## 🧾 Certificationss
 - CEH v12
 - Qualys Certified Specialist
 - MITRE ATT&CK Defender (MAD)
@@ -28,7 +28,7 @@ Pune, India 🇮🇳
 - EHE (Ethical Hacking Essentials)
 
 ## 🛠️ Skills & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,aws,azure,burpsuite,kali,vim" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,aws,azure,kali,vim" /> </p>
 
 - 🔐 Cybersecurity Operations
 - 🧠 Indicent Response
