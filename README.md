@@ -1,7 +1,8 @@
 <!-- Hacker Terminal Animation Start -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Karan+Kohale;Cybersecurity+Engineer+%7C+YouTuber+%7C+Ethical+Hacker;Welcome+to+my+Digital+Lab+%F0%9F%92%BB;Explore+My+Work+Below" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Karan+Kohale;Cybersecurity+Engineer+%7C+Certified+Ethical+Hacker;Welcome+to+my+Digital+Lab+%F0%9F%92%BB;Explore+My+Work+Below" alt="Typing SVG" />
 </h1>
+
 
 ## 📈 GitHub Stats & Highlights
 
