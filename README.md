@@ -60,7 +60,7 @@ India 🇮🇳
 </p>
 
 <p align="center">
-  🔗 <a href="https://www.youtube.com/@karankohale" target="_blank">Watch more on my channel</a>
+  🔗 <a href="https://www.youtube.com/@Anomity" target="_blank">Watch more on my channel</a>
 </p>
 
 
